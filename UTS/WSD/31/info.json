@@ -1,0 +1,6 @@
+{
+    "intervals": 60,
+    "training set anomaly ratio": 0.0085,
+    "testset anomaly ratio": 0.01497,
+    "total anomaly ratio": 0.01174
+}
