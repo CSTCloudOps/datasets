@@ -10,3 +10,12 @@ All Datasets are available online. The ways to obtain the dataset are as follows
 - TODS: https://github.com/datamllab/tods/tree/master/datasets
 
 NOTE: The original data generation process in TODS makes too navie anomalies. We modify the generation code to create more smoother, longer and more reasonable anomalies that are aligned with the description in their papers.
+
+Now we add new MTS datasets. The ways to obtain the dataset are as follows：
+
+- SMD: https://github.com/NetManAIOps/OmniAnomaly
+- SWaT: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
+- SMAP & MSL: https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl
+- PSM: https://github.com/eBay/RANSynCoders
+
+Note: We use methods in CAD Anomaly Detection to process data in SMD and SWaT. Please refer to https://github.com/dawnvince/MTS_CAD to see more information.
