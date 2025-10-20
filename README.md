@@ -18,4 +18,4 @@ Now we add new MTS datasets. The ways to obtain the dataset are as follows：
 - SMAP & MSL: https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl
 - PSM: https://github.com/eBay/RANSynCoders
 
-Note: We use methods in CAD Anomaly Detection to process data in SMD and SWaT. Please refer to https://github.com/dawnvince/MTS_CAD to see more information.
+NOTE: We use methods in CAD Anomaly Detection to process data in SMD and SWaT. Please refer to https://github.com/dawnvince/MTS_CAD to see more information.
